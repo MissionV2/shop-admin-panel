@@ -1,0 +1,3 @@
+переместите файлы products.json и server.js в папку admin
+запустите команду node server.js в директории admin
+запустите ещё одну команду node server.js в директории frontend
