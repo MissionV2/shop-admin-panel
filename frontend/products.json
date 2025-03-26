@@ -1,0 +1,60 @@
+[
+  {
+    "id": 1,
+    "name": "Смартфон",
+    "price": 29999,
+    "description": "Мощный смартфон с хорошей камерой",
+    "categories": [
+      "electronics",
+      "popular"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Ноутбук",
+    "price": 59999,
+    "description": "Легкий и производительный ноутбук",
+    "categories": [
+      "electronics"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Наушники",
+    "price": 4999,
+    "description": "Беспроводные наушники с шумоподавлением",
+    "categories": [
+      "electronics",
+      "audio"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Книга",
+    "price": 899,
+    "description": "Интересная книга бестселлер",
+    "categories": [
+      "books"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Футболка",
+    "price": 1999,
+    "description": "Хлопковая футболка с принтом",
+    "categories": [
+      "clothes",
+      "popular"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Обновленное название",
+    "price": 3000,
+    "description": "Тестовый товар добавленный через Postman",
+    "categories": [
+      "test",
+      "new"
+    ]
+  }
+]
